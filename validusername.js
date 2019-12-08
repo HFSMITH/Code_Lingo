@@ -11,3 +11,4 @@ function allLetter(inputtxt)
      alert("The username must only contain alphabetical or numerical characters!")
      }
   }
+allLetter(username)
